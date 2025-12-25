@@ -1,1 +1,1 @@
-$\color{FFF5E0}\10{\textrm{yay}}$
+$\color{FFF5E0}\tiny{\textrm{yay}}$
