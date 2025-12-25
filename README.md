@@ -1,1 +1,1 @@
-i love cat ok
+$\color{FFF5E0}\size{\font{yay}}$
